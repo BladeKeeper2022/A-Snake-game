@@ -1,2 +1,2 @@
 # A-Snake-game
-lower your volume before play
+Copy the Audio file in the project folder and rename them in the program.
